@@ -9,4 +9,4 @@ The updates would be sporadic for DevOps and the offline bootcamp as I plan on m
 
 The updates for Angela's 100 days of code program (Python) would be regular though. 
 
-Day 1: <a href="https://mukul.im/100-days-of-code-day-1-python/"> Learning about Printing, Commenting, Debugging, String Manipulation & Variables</a>
+Day 1: <a href="https://mukul.tech/100-days-of-code-day-1-python/"> Learning about Printing, Commenting, Debugging, String Manipulation & Variables</a>
